@@ -1,0 +1,10 @@
+.dataTables_length {
+    width: auto;
+    float: left;
+}
+.dataTables_wrapper label {
+    font-weight: bold;
+    font-size: 13px;
+    display: block;
+    margin-bottom: 0;
+}

@@ -1,0 +1,363 @@
+@media only screen and (max-width:1600px) {
+	.main-logo {
+		max-width: 360px;
+	}
+	button.btn-large {border: solid 2px #fff;padding: 10px 4rem;font-size: 35px;}
+	.ChooseBest-list li h2 {
+		font-size: 24px;
+	}
+	.discover-row {
+		padding:2rem 0px;
+	  }
+	  .hero-section {
+		min-height: 800px;
+	}
+	.farmer-search .form-control {height: 54px;	font-size: 18px;}
+	.farmer-search .theme-button, .placeorder-btn{height: 54px; width: 220px;}
+	.search-form-row {
+		padding-right: 220px;
+	}
+	.title-row h1, .title-row h2{ margin-bottom:25px; font-size: 35px;}
+	.discover-row br{display: none;}
+	.title-row {
+		padding: 0px 3rem 2rem 3rem;
+	}
+	.farm-detail h3 {
+		font-size: 35px;
+	}
+	.farmer-img {
+		max-width: 180px;
+		max-height: 180px;
+	}
+	.searchresult-list li h3 {
+		font-size: 20px;
+	}
+	.searchresult-wrap {
+		padding: 0 3rem;
+	}
+	.disc-btn {
+		padding: 20px 15px;
+		font-size: 32px;
+	}
+	.ptb-6, .new-farmers {
+		padding: 60px 0px;
+	}
+	.farm-detail-wrap {
+		margin-bottom: 4rem;
+	}
+	.farm-detail-wrap .placeorder-btn2 {font-size:28px;}
+	
+}
+
+@media only screen and (max-width:1400px) {
+	body{ font-size: 18px;}
+	.ptb-6, .new-farmers {
+		padding: 50px 0px;
+	}
+	.farmers-form .form-control {
+		height: 54px;
+		font-size: 18px;
+	}
+	.farmers-form .theme-button {
+		height: 54px;
+	}
+	.disc-btn {
+		padding: 20px 15px;
+		font-size: 30px;
+	}
+	.ChooseBest-frm {
+		padding: 0 2rem;
+	}
+	.ChooseBest-list li h2 {
+		font-size: 22px; margin-bottom: 1rem;
+	}
+	.ChooseBest-list li figure {
+		padding: 12px;
+	}
+	ul.ChooseBest-list {
+		gap: 25px;
+	}
+	.ChooseBest-list li {
+		width: calc(25% - 25px);
+	}
+	.hero-section {
+		min-height: 700px;
+		padding: 30px 0px;
+	}
+	.main-logo {
+		max-width: 320px;
+	}
+	button.btn-large {
+		font-size: 32px;
+	}
+	.title-row h1, .title-row h2{ margin-bottom:20px; font-size: 32px;}
+	.searchresult-list li {
+		font-size: 16px; margin-bottom: 2rem;
+	}
+	.farm-contact-col img {
+		width: 35px;
+		margin-right: 5px;
+	}
+	.farm-contact-row {
+		margin-top: 1rem;
+	}
+	.farm-detail-wrap .placeorder-btn2 {font-size:26px;}
+	.inner-man-sec .main-logo {
+		max-width: 200px;
+	}
+	.farm-detail-row {
+		margin-bottom:2rem;
+	}
+	.inner-bg {
+		padding: 30px 0;
+	}
+}
+
+@media only screen and (max-width:1200px) {
+	.ChooseBest-list li h2 {
+		font-size: 20px;
+	}
+	.ChooseBest-frm {
+		padding: 0;
+	}
+	.farmers-form {
+		width: 500px;
+	}
+	.farmer-search .theme-button, .placeorder-btn {
+		height: 50px;
+		width: 200px;
+	}
+	.search-form-row {
+		padding-right: 200px;
+	}
+	.farmer-search .form-control {
+		height:50px;
+		font-size: 16px;
+	}
+	.farmer-search .select-custopm-row:after {top: 20px;right: 15px;width: 14px;}
+	button.btn-large {
+		padding: 8px 3rem;
+		font-size: 28px;
+	}
+	.hero-section {
+		min-height: 650px;
+		padding: 30px 0px;
+	}
+	.ChooseBest-list li {
+		width: calc(33.333% - 25px);
+	}
+	.title-row {
+		padding: 0 0 30px 0;
+	}
+	.ptb-6, .new-farmers {
+		padding: 40px 0px;
+	}
+	.searchresult-list li {
+		width: calc(25% - 15px);
+	}
+	.searchresult-wrap {
+		padding: 0; text-align: center;
+	}
+	.farmer-img {
+		max-width: 150px;
+		max-height: 150px;
+	}
+	.farm-detail h3 {
+		font-size: 30px;
+	}
+	.farm-detail-wrap {
+		margin-bottom:3rem;
+	}
+	.farm-detail-wrap .placeorder-btn2 {font-size: 22px;}
+	.farm-contact-col {
+		padding-right: 15px;
+	}
+	.farm-contact-col img {
+		width: 30px;
+	}
+	.farm-detail-row {
+		margin-bottom: 25px;
+	}
+	.footer-logo {
+		max-width: 200px;
+	}
+	.footer-content {
+		padding: 30px 0px;
+	}
+
+	.search-form-row {
+		gap: 10px;
+	}
+	.search-form-col {
+		width: calc(25% - 10px);
+	}
+	
+}
+
+@media only screen and (max-width:991px) {
+	.ChooseBest-list li h2 {
+		font-size: 18px;
+	}	
+	ul.ChooseBest-list {
+		gap: 20px;
+	}
+	.ChooseBest-list li {
+		width: calc(33.333% - 20px);
+	}
+	.disc-btn {
+		padding:15px;
+		font-size: 25px;
+	}
+	.main-logo {
+		max-width: 250px;
+	}
+	button.btn-large {
+		padding: 8px 25px;
+		font-size: 20px;
+	}
+	.logo-figure {
+		margin-bottom: 25px;
+	}
+	.farmer-search {
+		margin-top: 25px;
+	}
+	.hero-section {
+		min-height: auto;
+		padding: 30px 0px;
+	}
+	.theme-button {
+		font-size: 14px;
+		padding: 10px 15px;
+		min-width: 80px;
+	}
+	.title-row h1, .title-row h2 {
+		margin-bottom: 15px;
+		font-size: 22px;
+	}
+	.searchresult-list li {
+		width: calc(33.333% - 15px);
+	}
+	.farmer-img {
+		max-width: 100%;
+		max-height: 150px;
+	}
+	.farm-detail {
+		margin-left: 15px;
+	}
+	.farm-detail h3 {
+		font-size: 25px;
+	}
+	body {
+		font-size: 16px;
+	}
+	.farm-contact-row {
+		flex-wrap: wrap;
+	}
+	.farm-contact-col {
+		padding: 0;
+		width: 100%;
+	}
+	.inner-man-sec .main-logo {
+		max-width: 150px;
+	}
+	.farm-detail-wrap .placeorder-btn2 {
+		font-size: 18px;
+	}
+	.farm-detail-wrap {
+		margin-bottom: 25px;
+	}
+	.footer-logo {
+		max-width: 180px;
+	}
+	.search-form-row {
+		padding-right: 0;
+		flex-wrap: wrap;
+	}
+	.search-form-col {
+		width: calc(50% - 10px);
+	}
+	.farmer-search .theme-button {
+		height: 40px;
+		width: 100%;
+		position: relative;
+	}
+}
+
+@media only screen and (max-width:767px) {
+	
+	.ChooseBest-list li {
+		width: calc(50% - 20px);
+	}
+	.farmers-form {
+		width: 100%;
+	}
+	.main-logo {
+		max-width:200px;
+	}
+	.farmer-search {
+		margin-top: 20px;
+	}
+	.farmer-search .form-control {
+		height: 40px;
+		font-size: 14px;
+	}
+	.search-form-row {
+		gap:0px;
+	}
+	.search-form-col {
+		width:100%; margin-bottom: 10px;
+	}
+
+	.farmer-search .select-custopm-row:after {
+		top: 16px;
+	}
+	.hero-content {
+		padding-top: 15px;
+	}
+	.searchresult-list li {
+		width: calc(50% - 15px);
+	}
+	.placeorder-btn {
+		position: relative;
+		margin-top: 15px;
+	}
+	.farm-detail-row .farmer-img {
+		width: 100px;
+		height: auto;
+	}
+	
+}
+@media only screen and (max-width:480px) {
+	.ChooseBest-list li figure {
+		padding: 8px;
+	}
+	.header {
+		flex-wrap: wrap;
+	}
+	.header-left {
+		width: 100%;
+	}
+	.header-left .theme-button {
+		width: 100%;
+		margin-bottom: 5px;
+	}
+	.header-right {
+		width: 100%;
+		text-align: center;
+	}
+	.header-right .theme-button {
+		width: 47%;
+	}
+	.searchresult-list {
+		gap: 0;
+	}
+	.searchresult-list li {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.disc-btn {
+		padding: 12px;
+		font-size: 20px;
+	}
+
+}
